@@ -15,9 +15,5 @@
       <scope>test</scope>
     </dependency>
   </dependencies>
-  <server>
-<id>deployment</id>
-<username>deployment</username>
-<password>welcome</password>
-</server>
+ 
 </project>
